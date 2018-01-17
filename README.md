@@ -1,2 +1,2 @@
 # KaggleScribbles
-I hope to post all my kaggle notebooks here. I am thinking of doing all the inClass ones from earliest deadlines or Most Teams Enrolled. 
+I hope to post all my kaggle notebooks here. I am thinking of doing the inClass ones with >75 Teams enrolled.
